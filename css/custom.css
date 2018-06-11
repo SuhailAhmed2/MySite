@@ -86,7 +86,18 @@ body, html {
   letter-spacing: 10px;
 }
 
-/* .my-suhail-form {
-   background-color: #edf0f4;
+.my-custom-logo {
+	background-color: #f8f8f8;
+	color: #fff;
+	padding: 18px;
+	/*font-size: 25px;*/
+	/*letter-spacing: 10px;*/
+	font-family: 'Pinyon Script';font-size: 45px; text-shadow: 2px 2px 2px red;
+}
 
-} */
+.my-custom-logo-letter {
+	/*font-size: 25px;*/
+	padding: 3px;
+	color: #fff;
+	font-family: 'Alex Brush';font-size: 45px; text-shadow: 2px 2px 2px red;
+}
